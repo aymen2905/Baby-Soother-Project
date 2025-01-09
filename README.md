@@ -34,6 +34,8 @@ This repository contains the design and implementation of an interactive, sensor
 ## Extras
 - **Project Report:** A detailed PDF report summarizing the design and implementation is included in the repository.
 - Tinkercad Layout: For easy replication of the circuit design.
+  ![Description of Image](tinker.png)
+
 ---
 ## Acknowledgments
 This project was completed as part of the **EE1000: Creative Engineering Team Project 1 at Royal Holloway, University of London.**
